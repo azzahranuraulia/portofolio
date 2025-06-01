@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "template",
+    "slug": "snack-3b5ffc79-bc0a-4610-ab6d-d4744b676307",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.azzahranuraulia.snack3b5ffc79bc0a4610ab6dd4744b676307"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f751ce7f-3fd8-450d-a30f-c64a626150dc"
+      }
+    }
+  }
+}
