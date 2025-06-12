@@ -3,13 +3,12 @@ import { View, Text, StyleSheet, ScrollView } from "react-native";
 
 const skills = {
   "💻 Bahasa Pemrograman": [
-    "Python (dasar)",
     "JavaScript (dasar)",
     "TypeScript (dasar)",
     "PHP (dasar)",
   ],
   "🎨 Markup & Styling": ["HTML", "CSS"],
- "🧰 Framework & Library": ["Laravel (dasar)", "React Native (dasar)", "Node.js (dasar)"],
+ "🧰 Framework & Library": ["Laravel (dasar)", "React Native (dasar)"],
   "🗄️ Database": ["MySQL"],
   "🛠️ Tools": [
     "Visual Studio Code",
@@ -22,7 +21,6 @@ const skills = {
     "Kerja sama tim",
     "Komunikasi",
     "Tanggung jawab",
-    "Manajemen waktu",
     "Berpikir kritis",
   ],
 };
