@@ -53,12 +53,12 @@ export default function Skills() {
 const styles = StyleSheet.create({
   container: {
     padding: 24,
-    backgroundColor: "#FFF8F0", // pastel cream peachy
+    backgroundColor: "#FFF8F0", 
   },
   title: {
     fontSize: 28,
     fontWeight: "bold",
-    color: "#D8836C", // soft brown peach
+    color: "#D8836C", 
     textAlign: "center",
     marginBottom: 12,
   },
